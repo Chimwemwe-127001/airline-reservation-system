@@ -1,0 +1,11 @@
+# Ignore build folder
+/build/
+
+# Ignore compiled class files
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore metadata
+/.metadata/
