@@ -57,7 +57,6 @@ private static final String DB_PASS = "root"; // Your MySQL password
 
 ```bash
 javac -cp ../lib/mysql-connector-j-9.1.0.jar *.java
-Run the application:
 ```
 
 5. **Run the main application:**
