@@ -31,7 +31,7 @@ The **Airline Reservation System** is a Java-based application that allows users
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/airline-reservation-system.git
+   git clone https://github.com/Chimwemwe-127001/airline-reservation-system.git
 
    cd airline-reservation-system
    ```
