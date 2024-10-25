@@ -70,3 +70,16 @@ java -cp .:../lib/mysql-connector-j-9.1.0.jar AirlineReservationSystem
 - Upon running the application, you will be presented with a menu of options.
 - Follow the prompts to search for flights, make reservations, or view existing reservations.
 - Ensure you enter valid flight numbers and passport numbers as prompted.
+
+7. **Authors**
+
+- Chimwemwe Sinyinza 2022067576
+- Peter phiri 2022036263
+- Shalom Sichula 2022055985
+- Grace Musanga 2022032659
+- Mwansa NANDALA 2022074041
+- Lwando Mooya 2022060725
+- MOSES CHASWALA 2022044606
+- Blessings Mulenga 2022042212
+- Nosiku mukuka 2022030346
+- Chali Chibwana 2017011498
